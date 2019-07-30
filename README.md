@@ -1,10 +1,8 @@
 # openapi-java-client
 
-This is api for automated valuation machine - https://avm.enbisys.com/
+This is api client library for AVM (automated valuation machine) - https://avm.enbisys.com/
 
 Get instant and accurate Property Valuations and Predictive Analytics with our AI and Big Data tools. And make smart decisions faster
-
-API version: 1.0.0
 
 ## Requirements
 
